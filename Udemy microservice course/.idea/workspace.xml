@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4383c22d-4efe-42ba-9787-4c9e338bd39a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/src/main/java/net/services/departmentservice/DepartmentServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/src/main/java/net/services/departmentservice/controller/DepartmentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/src/main/java/net/services/departmentservice/dto/DepartmentDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/src/main/java/net/services/departmentservice/entity/Department.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/src/main/java/net/services/departmentservice/repository/DepartmentRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/src/main/java/net/services/departmentservice/service/DepartmentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/src/main/java/net/services/departmentservice/service/impl/DepartmentServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/department-service/department-service/src/test/java/net/services/departmentservice/DepartmentServiceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/src/main/java/net/services/employeeservice/EmployeeServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/src/main/java/net/services/employeeservice/comtroller/EmployeeController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/src/main/java/net/services/employeeservice/dto/EmployeeDto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/src/main/java/net/services/employeeservice/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/src/main/java/net/services/employeeservice/repository/EmployeeRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/src/main/java/net/services/employeeservice/service/EmployeeService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/src/main/java/net/services/employeeservice/service/impl/EmployeeServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/employee-service/employee-service/src/test/java/net/services/employeeservice/EmployeeServiceApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NMwlOlY447oz7pRJSPoRlU6Iw7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "R:/Learning/Microservices/Udemy microservice course/config-server",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "terminal"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="ls" />
+      <command value="java -jar -Dserver.port=8085 target/department-service-0.0.1-SNAPSHOT.jar " />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ApiGatewayApplication">
+    <configuration name="ApiGatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.services.apigateway.ApiGatewayApplication" />
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.services.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DepartmentServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.services.departmentservice.DepartmentServiceApplication" />
+      <module name="department-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.services.departmentservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EmployeeServiceApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.services.employeeservice.EmployeeServiceApplication" />
+      <module name="employee-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.services.employeeservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceRegistryApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="net.service.serviceregistry.ServiceRegistryApplication" />
+      <module name="service-registry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="net.service.serviceregistry.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ApiGatewayApplication" />
+        <item itemvalue="Application.EmployeeServiceApplication" />
+        <item itemvalue="Application.DepartmentServiceApplication" />
+        <item itemvalue="Application.ServiceRegistryApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4383c22d-4efe-42ba-9787-4c9e338bd39a" name="Changes" comment="" />
+      <created>1679487408917</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679487408917</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
